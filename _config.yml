@@ -30,7 +30,8 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-url: https://artofhostingparis.org
+url: https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019/
+# https://artofhostingparis.org
 title: Art Of Hosting Paris
 email: contact@artofhostingparis.org
 
