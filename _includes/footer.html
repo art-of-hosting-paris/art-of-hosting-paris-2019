@@ -13,7 +13,10 @@
             </div>
             <div class="col-md-4">
             	<ul class="about-the-site">
+            	<!--
                 <li class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</li>
+                -->
+                {% if site.languages.size > 1 %}
                 <li >
                 <ul class="translations">
   				{% for tongue in site.languages %}
@@ -21,6 +24,7 @@
   				{% endfor %}
 				</ul>
 				</li>
+                {% endif %}
             	</ul>
             </div>
             <div class="col-md-4">

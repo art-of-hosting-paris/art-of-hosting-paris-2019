@@ -1,17 +1,14 @@
 intro:
-  lead-in: Pour vos projets informatiques, adoptez
-  heading: l'outsourcing éthique au Népal
-  action: Découvrez notre offre
+  lead-in: Art of Hosting
+  heading: L'art du leadership participatif
+  action: Je veux être informé de l'ouverture
+  dates: 25-29 septembre, à Paris
 
 menu:
-  - title: Métier
-    href: '#notre-metier'
-  - title: Offre
-    href: '#notre-offre'
-  - title: Valeurs 
-    href: '#nos-valeurs'
-  - title: Partenaires
-    href: '#nos-partenaires'
-  - title: Contact
-    href: '#contactez-nous'
+  - title: Accueil
+    href: '#page-top'
+  - title: Notre équipe
+    href: '#notre-equipe'
+  - title: Notre intention
+    href: '#notre-intention'
 

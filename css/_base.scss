@@ -138,7 +138,7 @@ fieldset[disabled] .btn-primary.active {
     border-color:  $colorPrimary;
     border-radius: 3px;
     // text-transform: uppercase;
-    font-family:  $fontPrimary;
+    font-family:  $fontSecondary;
     font-size: $fontSizeNormal;
     font-weight: bold;
     color: $colorWhite;
@@ -280,7 +280,7 @@ header {
     text-align: center;
     color:  $colorWhite ;
     background-attachment: scroll;
-    background-image: url('../img/header-bg.jpg');
+    background-image: url('../img/photo2.webp');
     background-position: center 10%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -299,27 +299,38 @@ header {
 		justify-content: center;
 		// align-items: center;
 		height: 100%;
-    	padding-top: 100px;
-    	padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 
 		.intro-lead-in {
     		margin-bottom: 2rem;
-    		font-family:  $fontSecondary ;
-    		font-size: $fontSizeBig;
-    		font-style: italic;
+    		font-family:  $fontPrimary;
+    		font-size: $fontSizeHuge;
+    		color:  $colorBlack;
+    		// font-style: italic;
     		line-height: 1.35;
 		}
 
 		.intro-heading {
     		margin-bottom: 4rem;
     		// text-transform: uppercase;
-    		font-family:  $fontPrimary ;
-    		font-size: $fontSizeHuge;
-    		font-weight: 700;
+    		font-family:  $fontSecondary ;
+    		font-size: $fontSizeNormal;
+    		font-weight: normal;
     		line-height: 1.25;
-    		color:  $colorWhite;
-    		text-shadow: 0 0 50px black;
+    		color:  $colorBlack;
+    		// text-shadow: 0 0 50px black;
 		}
+
+		.intro-dates {
+    		margin-bottom: 2rem;
+    		font-family:  $fontPrimary;
+    		font-size: $fontSizeHuge;
+    		color:  $colorBlack;
+    		// font-style: italic;
+    		line-height: 1.35;
+		}
+
 	}
 }
 

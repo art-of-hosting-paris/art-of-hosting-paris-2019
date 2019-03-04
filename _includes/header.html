@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand page-scroll" href="#page-top">
-                <img src=" /img/logos/boldcode-logo.512p.png"  alt="" id="logo">
+                <!-- <img src=" /img/logos/boldcode-logo.512p.png"  alt="" id="logo"> -->
             </a>
         </div>
 
@@ -36,10 +36,11 @@
 <header>
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in">{{ site.data.header.intro.lead-in }}</div>
-            <h1 class="intro-heading">{{ site.data.header.intro.heading }}</h1>
-            <div class="col-md-push-4 col-md-4">
-            <a href="#notre-metier" class="page-scroll btn btn-xl btn-block">{{ site.data.header.intro.action }}</a>
+            <h1 class="intro-lead-in">{{ site.data.header.intro.lead-in }}</h1>
+            <div class="intro-heading">{{ site.data.header.intro.heading }}</div>
+            <div class="intro-dates">{{ site.data.header.intro.dates }}</div>
+            <div class="col-md-push-3 col-md-6">
+            <a href="{{ site.data.header.intro.action_href }}" class="page-scroll btn btn-xl btn-block">{{ site.data.header.intro.action }}</a>
             </div>
         </div>
     </div>

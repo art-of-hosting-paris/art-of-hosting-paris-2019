@@ -57,16 +57,19 @@ header {
 
    	.intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family:  $fontSecondary ;
-        font-size: $fontSizeHuge;
-        font-style: italic;
+        font-size: $fontSizeTitle;
         line-height: 1;
     }
 
    	.intro-text .intro-heading {
-        margin-bottom: 50px;
-        font-size: $fontSizeTitle;
+        margin-bottom: 25px;
+        font-size: ($fontSizeBig + $fontSizeHuge) / 2.2;
     }
+
+   	.intro-text .intro-dates {
+        margin-bottom: 50px;
+        font-size: $fontSizeHuge / 1.05;
+   	}
 }
 
 section {
