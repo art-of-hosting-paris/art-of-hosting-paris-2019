@@ -13,7 +13,7 @@ sass:
   exclude: []
 
 livereload: false
-baseurl: ""
+baseurl: "https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019"
 
 exclude: 
   - bin
@@ -30,7 +30,7 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-url: https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019/
+url: "https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019/"
 # https://artofhostingparis.org
 title: Art Of Hosting Paris
 email: contact@artofhostingparis.org
