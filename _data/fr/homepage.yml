@@ -4,7 +4,7 @@
 #  layout: cards
 - id: homepage_notre_equipe
   layout: people
-- id: homepage_nos_valeurs
+- id: homepage_notre_intention
   layout: values
 # - id: homepage_partenaires
 #   layout: partners
