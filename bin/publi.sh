@@ -9,7 +9,7 @@ git worktree remove -f _site || true
 rm -rf _site/ || true
 
 # Link to branch
-git worktree add -B gh-pages _site origin/gh-pages
+git worktree add -B gh-pages _site origin/gh-pages || true
 
 # Build
 JEKYLL_ENV=production jekyll build
