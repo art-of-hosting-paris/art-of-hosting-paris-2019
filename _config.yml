@@ -30,10 +30,9 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
 
-url: https://boldcode.io
-title: boldcode_
-email: contact@boldcode.io
-
+url: https://artofhostingparis.org
+title: Art Of Hosting Paris
+email: contact@artofhostingparis.org
 
 baseline_i18n:
   fr: "Art of participatory leadership"
@@ -42,7 +41,6 @@ baseline_i18n:
 description_i18n:
   fr: "Blob"
   # en: "Our engagement: offering you top-quality technical services to carry out your website and mobile application projects"
-
 
 # JEKYLL PLUGINS
 # ==============
