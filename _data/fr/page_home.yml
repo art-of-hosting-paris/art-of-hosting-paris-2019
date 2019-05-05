@@ -4,15 +4,10 @@
 #  layout: cards
 
 - data: block_home_header
-  layout: header_large
 - data: block_home_program
-  layout: markdown_columns
 - data: block_home_aoh
-  layout: markdown_columns
-- data: homepage_partenaires
-  layout: partners
+- data: block_home_partners
 - data: block_home_info
-  layout: markdown_columns
 
 # - data: homepage_contact
 #   layout: contact

@@ -5,14 +5,14 @@
     	{% include menu.html %}
     	{% for block in site.data[page.data] %}
     		{% assign block_data = site.data[block.data] %}
-    		{% case block.layout %}
+    		{% case block_data.layout %}
     			{% when 'header_large' %}{% include blocks/header_large.html %}
     			{% when 'header_small' %}{% include blocks/header_small.html %}
     			{% when 'contact' %}{% include blocks/contact.html %}
     			{% when 'cards' %}{% include blocks/cards.html %}
     			{% when 'features' %}{% include blocks/features.html %}
     			{% when 'people' %}{% include blocks/people.html %}
-    			{% when 'markdown_columns' %}{% include blocks/markdown_columns.html %}
+    			{% when 'text_columns' %}{% include blocks/text_columns.html %}
     			{% when 'partners' %}{% include blocks/partners.html %}
     			{% else %}Unknown type {{ block.layout }}
     		{% endcase %}

@@ -1,4 +1,2 @@
 - data: block_contact_header
-  layout: header_small
 - data: block_contact_form
-  layout: contact

@@ -1,5 +1,7 @@
 id: contactez-nous
+layout: contact
 title: Contactez-nous
+
 subtitle: |-
   Nous sommes à votre disposition pour toute demande d'informations ou
   questions

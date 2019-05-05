@@ -1,10 +1,6 @@
 
 - data: block_program_header
-  layout: header_small
-- data: block_program_intention
-  layout: values
-- data: block_program_seminaire
-  layout: values
-- data: block_program_equipe
-  layout: people
+- data: block_program_intent
+- data: block_program_event
+- data: block_program_team
 

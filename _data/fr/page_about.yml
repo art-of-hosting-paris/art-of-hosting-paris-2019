@@ -1,8 +1,4 @@
 - data: block_about_header
-  layout: header_small
 - data: block_about_definition
-  layout: values
 - data: block_about_history
-  layout: values
 - data: block_about_ressources
-  layout: values
