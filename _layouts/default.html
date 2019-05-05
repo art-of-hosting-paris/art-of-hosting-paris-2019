@@ -14,7 +14,7 @@
     			{% when 'people' %}{% include blocks/people.html %}
     			{% when 'text_columns' %}{% include blocks/text_columns.html %}
     			{% when 'partners' %}{% include blocks/partners.html %}
-    			{% else %}Unknown type {{ block.layout }}
+    			{% else %}Unknown type "{{ block_data.layout }}" in page "{{page.data}}"!
     		{% endcase %}
     	{% endfor %}
 
