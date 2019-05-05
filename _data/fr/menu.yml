@@ -1,0 +1,18 @@
+
+logo:
+  enable: false
+  src: ''
+  alt: Toto
+
+title: Art Of Hosting Paris
+
+menu:
+  - title: Accueil
+    href: '/index'
+  - title: Séminaire
+    href: '/le-programme'
+  - title: Art of Hosting
+    href: '/a-propos-d-aoh'
+  - title: Contact
+    href: '/contact'
+
