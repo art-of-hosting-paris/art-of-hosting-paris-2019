@@ -1,0 +1,12 @@
+<ul class="about-the-site">
+    <li class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</li>
+    {% if site.languages.size > 1 %}
+    <li >
+        <ul class="translations">
+  			{% for tongue in site.languages %}
+			<li><a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ site.data.lang[tongue] }}</a></li>
+  			{% endfor %}
+		</ul>
+	</li>
+    {% endif %}
+</ul>

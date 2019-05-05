@@ -1,4 +1,4 @@
-<!-- Team Section -->
+<!-- Columns Section -->
 <section id="{{ block_data.id }}" class="bc-block bc-block-values">
     <div class="container">
         <div class="row">
@@ -8,8 +8,12 @@
             </div>
         </div>
         <div class="row">
+        	{% assign bs_columns = block_data.items | size | at_least: 1 %}
+        	{% assign bs_column_md = 12 | divided_by: bs_columns | at_most: 12 %}
+        	{% assign bs_column_sm = bs_column_md | times: 2 | at_most: 12 %}
+        	{% assign bs_column_xs = bs_column_md | times: 3 | at_most: 12 %}
             {% for item in block_data.items %}
-            <div class="col-xs-12 col-sm-12 col-md-6">
+            <div class="col-xs-{{ bs_column_xs }} col-sm-{{ bs_column_sm }} col-md-{{ bs_column_md }}">
             	{{ item.description | markdownify }}
             </div>
             {% endfor %}
