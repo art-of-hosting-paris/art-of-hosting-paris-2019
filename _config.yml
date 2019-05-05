@@ -13,7 +13,8 @@ sass:
   exclude: []
 
 livereload: false
-baseurl: "https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019"
+baseurl: ""
+# baseurl: "https://art-of-hosting-paris.github.io/art-of-hosting-paris-2019"
 
 exclude: 
   - bin
