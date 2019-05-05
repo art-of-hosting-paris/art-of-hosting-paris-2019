@@ -1,0 +1,72 @@
+@import "../config/constants.scss";
+
+.bc-block-header {
+  text-align: center;
+  color:  $colorWhite ;
+  background-attachment: scroll;
+  background-image: url('../img/photo2.webp');
+  background-position: center 10%;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+	.container {
+		height: 100%;
+	}
+
+	.intro-text {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		height: 100%;
+
+		.intro-lead-in {
+    	margin-bottom: 2rem;
+    	font-family:  $fontPrimary;
+    	font-size: $fontSizeHuge;
+    	color:  $colorBlack;
+    	line-height: 1.35;
+		}
+
+		.intro-heading {
+    	font-family:  $fontSecondary ;
+    	font-size: $fontSizeNormal;
+    	font-weight: normal;
+    	line-height: 1.25;
+    	color:  $colorBlack;
+		}
+
+		.intro-dates {
+    	margin-bottom: 2rem;
+    	font-family:  $fontPrimary;
+    	font-size: $fontSizeHuge;
+    	color:  $colorBlack;
+    	line-height: 1.35;
+		}
+
+		.btn {
+		  overflow: hidden;
+		}
+	}
+
+
+  &.bc-block-header-large {
+    height: 100vh;
+
+    .intro-text {
+      padding-top: 100px;
+      padding-bottom: 50px;
+
+      .intro-heading {
+    	  margin-bottom: 4rem;
+      }
+    }
+  }
+
+  &.bc-block-header-small {
+    height: auto;
+  }
+}
+

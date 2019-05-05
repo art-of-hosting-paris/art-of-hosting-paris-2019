@@ -20,6 +20,7 @@
 @import "ext/bootstrap3.min.css";
 
 @import "base.scss";
+@import "blocks/header.scss";
 @import "blocks/features.scss";
 @import "blocks/contact.scss";
 @import "blocks/team.scss";
@@ -31,6 +32,7 @@
 
 @media(min-width:768px) {
 	@import "base_768p.scss";
+	@import "blocks/header_768p.scss";
 	@import "blocks/features_768p.scss";
 	@import "blocks/contact_768p.scss";
 	@import "blocks/team_768p.scss";
@@ -39,7 +41,7 @@
 	@import "blocks/partners_768p.scss";
 }
 
-
+/*
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -132,31 +134,6 @@
     }
 }
 
-.team-member {
-    margin-bottom: 50px;
-    text-align: center;
-}
-
-.team-member img {
-    margin: 0 auto;
-    border: 7px solid #fff;
-}
-
-.team-member h4 {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    height: 25px;
-    text-transform: none;
-}
-
-.team-member p {
-    margin-top: 0;
-    height: 3em;
-    margin-top: 15px;
-    /* border-top: 1px solid black; */
-    margin-bottom: 25px;
-}
-
 aside.clients img {
     margin: 50px auto;
 }
@@ -178,47 +155,6 @@ section#about #sensibilisation {
   	margin: 0px 0px 25px 0px;
 }
 
-
-
-
-ul.social-buttons {
-    margin-bottom: 0;
-}
-
-ul.social-buttons li a {
-    display: block;
-    width: 40px;
-    height: 40px;
-    border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
-    outline: 0;
-    color: #fff;
-    background-color: #222;
-    -webkit-transition: all .3s;
-    -moz-transition: all .3s;
-    transition: all .3s;
-}
-
-
-ul.social-buttons li.social-blog a {
-    width: 10em;
-    border-radius: 20px;
-    padding: 0 10px;
-}
-
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
-    background-color:  $colorPrimary ;
-}
-
-.btn:focus,
-.btn:active,
-.btn.active,
-.btn:active:focus {
-    outline: 0;
-}
 
 .contact-link {
   	text-transform: uppercase;
@@ -327,21 +263,4 @@ ul.social-buttons li a:active {
     background:  $colorPrimary ;
 }
 
-img::selection {
-    background: 0 0;
-}
-
-img::-moz-selection {
-    background: 0 0;
-}
-
-body {
-    -webkit-tap-highlight-color:  $colorPrimary ;
-}
-
-.block-heading {
-	&::after {
-		@include animation-blink;
-		content: "_";
-	}
-}
+*/
