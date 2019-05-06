@@ -5,59 +5,45 @@ subtitle:
 
 # Team names, titles and social links
 items:
-  - name: Anne-Laure ROMANET
-    picture: romanet-anne-laure.jpg
+  - name: Nancy BRAGARD
+    picture: 
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/nancy-bragard-6a5818/
+
+  - name: Laure Dumont
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/laure-dumont-7306a01a/
+
+  - name: Maïwenn Favetto-Bon
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/maiwennfb/
+
+  - name: Stephan Krajcik 
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/skrajcik/
+
+  - name: Maud Richet
+    picture: anonymous-anonymous.jpg
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/maudrichet/
+
+  - name: Anne-Laure Romanet
+    picture: anonymous-anonymous.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/anne-laure-romanet-7154181b/
-      - title: twitter
-        url: https://twitter.com/alromanet
 
-  - name: Anonymous ANONYMOUS
+  - name: Helen Titchen-Beeth
     picture: anonymous-anonymous.jpg
     social:
       - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
-
-  - name: Anonymous ANONYMOUS
-    picture: anonymous-anonymous.jpg
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
-
-  - name: Anonymous ANONYMOUS
-    picture: anonymous-anonymous.jpg
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
-
-  - name: Anonymous ANONYMOUS
-    picture: anonymous-anonymous.jpg
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
-
-  - name: Anonymous ANONYMOUS
-    picture: anonymous-anonymous.jpg
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
-
-  - name: Anonymous ANONYMOUS
-    picture: anonymous-anonymous.jpg
-    social:
-      - title: linkedin
-        url: https://www.linkedin.com/in/anonymous/
-      - title: twitter
-        url: https://twitter.com/anonymous
+        url: https://www.linkedin.com/in/helen-titchen-beeth-2098a12/
 
