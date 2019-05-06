@@ -4,12 +4,12 @@ logo:
   src: ''
   alt: Toto
 
-title: Art Of Hosting Paris
+title: Art Of Hosting — Paris 2019
 
 menu:
   - title: Accueil
     href: '/index'
-  - title: Séminaire
+  - title: Le Séminaire
     href: '/le-programme'
   - title: Art of Hosting
     href: '/a-propos-d-aoh'

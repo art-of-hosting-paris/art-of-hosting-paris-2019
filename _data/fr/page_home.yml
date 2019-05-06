@@ -6,7 +6,6 @@
 - data: block_home_header
 - data: block_home_program
 - data: block_home_aoh
-- data: block_home_partners
 - data: block_home_info
 
 # - data: homepage_contact
