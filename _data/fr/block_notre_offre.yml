@@ -1,4 +1,5 @@
 id: notre-offre
+theme: default
 title: Notre offre
 subtitle: Nous réalisons les outils numériques qui répondent à vos enjeux métier
 selector: service

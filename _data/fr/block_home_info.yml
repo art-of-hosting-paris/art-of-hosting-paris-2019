@@ -1,4 +1,5 @@
 id: home-info
+theme: default
 layout: text_columns
 title: Informations pratiques
 subtitle: |-

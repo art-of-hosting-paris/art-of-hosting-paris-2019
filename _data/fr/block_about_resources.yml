@@ -1,6 +1,7 @@
 id: about-resources
 layout: text_columns
 title: Ressources
+theme: default
 subtitle: |-
   Nous avons sélectionné un ensemble de
   vidéos, d’articles, de livres de références et d’exemples de projets

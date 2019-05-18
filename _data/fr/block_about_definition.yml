@@ -2,6 +2,7 @@ id: about-definitions
 layout: text_columns
 title: Définition
 subtitle: Ou plutôt tentative de définition...
+theme: default
 
 items:
   - description: |-

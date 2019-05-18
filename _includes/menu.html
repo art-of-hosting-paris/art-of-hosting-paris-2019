@@ -9,11 +9,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">
+            <a class="navbar-brand page-scroll" href="{{ site.data.menu.title.href }}#page-top">
             	{% if site.data.menu.logo.enable %}
                 <img src="{{ site.data.menu.logo.src }}"  alt="{{ site.data.menu.logo.alt }}" id="logo">
             	{% else %}
-            	{{ site.data.menu.title }}
+            	{{ site.data.menu.title.text }}
             	{% endif %}
             </a>
         </div>

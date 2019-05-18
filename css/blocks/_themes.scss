@@ -1,0 +1,17 @@
+
+@import "../config/constants.scss";
+
+.bc-block.bc-theme-primary {
+	background-color:  $colorPrimary;
+	color: $colorWhite;
+}
+
+.bc-block.bc-theme-secondary {
+	background-color:  $colorSecondary;
+	color: $colorWhite;
+}
+
+.bc-block.bc-theme-tertiary {
+	background-color:  $colorTertiary;
+	color: $colorWhite;
+}

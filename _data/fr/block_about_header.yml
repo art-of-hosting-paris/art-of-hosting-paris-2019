@@ -1,4 +1,5 @@
 id: about-header
+theme: default
 layout: header_small
 title: Hosting Conversations that matter
 subtitle: L'art d'accueillir les conversations qui comptent

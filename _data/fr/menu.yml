@@ -4,7 +4,9 @@ logo:
   src: ''
   alt: Toto
 
-title: Art Of Hosting — Paris 2019
+title:
+  text: Art Of Hosting — Paris 2019
+  href: '/'
 
 menu:
   - title: Accueil
