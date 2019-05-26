@@ -5,22 +5,55 @@ title: Histoire de l'Art of Hosting
 subtitle: 
 
 
-items:
-  - width: 6
-    image: 
-      src: "hop"
-  - description: |-
-      “L'Art of Hosting Conversations that matter” (AoH) est un réseau mondial de facilitateurs qui développent et pratiquent depuis plus de vingt ans des pratiques et méthodes participatives s’appuyant sur les capacités d’auto-organisation des groupes.
-       Cette approche a fait ses preuves sur tous les continents, aussi bien dans des institutions internationales (commission européenne notamment) que dans des entreprises, collectivités et associations.
+rows:
+  - columns:
+      - description: |-
+          “L'Art of Hosting Conversations that matter” (AoH) est un réseau
+          mondial de facilitateurs qui développent et pratiquent depuis plus de
+          vingt ans des pratiques et méthodes participatives s’appuyant sur les
+          capacités d’auto-organisation des groupes.
+
+          Cette approche a fait ses preuves sur tous les continents, aussi bien
+          dans des institutions internationales (commission européenne
+          notamment) que dans des entreprises, collectivités et associations.
+     
+          Elle est en forte résonance avec la Théorie du U de O. Scharmer et le
+          travail Reinventing Organizations de F. Laloux et elle est à
+          l’origine notamment des World Café, Forum Ouvert ou de l’Appreciative
+          Inquiry.
+     
+          Le réseau Art of Hosting se diffuse et grandit rapidement à travers
+          le monde depuis une vingtaine d’années. Des organisations, des
+          communautés et des individus de tous horizons prennent part à cette
+          nouvelle façon d’appréhender le monde et  la collaboration humaine.
+      - width: 4
+        image: 
+          src: "hop"
  
-      Elle est en forte résonance avec la Théorie du U de O. Scharmer et le travail Reinventing Organizations de F. Laloux et elle est à l’origine notamment des World Café, Forum Ouvert ou de l’Appreciative Inquiry.
- 
-      Le réseau Art of Hosting se diffuse et grandit rapidement à travers le monde depuis une vingtaine d’années. Des organisations, des communautés et des individus de tous horizons prennent part à cette nouvelle façon d’appréhender le monde et  la collaboration humaine.
-  
-      Le réseau Art of Hosting n’a pas de structure juridique formelle, pas de leader désigné, pas de programme d’accréditation et pas d’organisme de contrôle. Il est basé sur un réseau de praticiens et sur des communautés de pratique locales, qui pratiquent l’apprentissage continu et la générosité, en encourageant le partage et l’entre-aide.
-  
-      Une étape idéale pour découvrir  l’Art of Hosting est de suivre un séminaire de 3 jours. Un groupe international de « pilotes » est garant du modèle de pratique et assure la qualité des séminaires ainsi que l’intégrité du réseau international.
- 
-      Le premier séminaire AoH en France remonte à 2009 ; La communauté s’étoffe depuis, au fil des séminaires de découverte, des évènements et rencontres, et de l’intégration de ces pratiques dans les méthodes de facilitation ou les modes de fonctionnement d’organisations.
-  
+  - columns:
+      - width: 4
+        image: 
+          src: "hop"
+      - description: |-
+          Le réseau Art of Hosting se diffuse et grandit rapidement à travers
+          le monde depuis une vingtaine d’années. Des organisations, des
+          communautés et des individus de tous horizons prennent part à cette
+          nouvelle façon d’appréhender le monde et  la collaboration humaine.
+      
+          Le réseau Art of Hosting n’a pas de structure juridique formelle, pas
+          de leader désigné, pas de programme d’accréditation et pas
+          d’organisme de contrôle. Il est basé sur un réseau de praticiens et
+          sur des communautés de pratique locales, qui pratiquent
+          l’apprentissage continu et la générosité, en encourageant le partage
+          et l’entre-aide.
+      
+          Une étape idéale pour découvrir  l’Art of Hosting est de suivre un
+          séminaire de 3 jours. Un groupe international de « pilotes » est
+          garant du modèle de pratique et assure la qualité des séminaires
+          ainsi que l’intégrité du réseau international.
+     
+          Le premier séminaire AoH en France remonte à 2009 ; La communauté
+          s’étoffe depuis, au fil des séminaires de découverte, des évènements
+          et rencontres, et de l’intégration de ces pratiques dans les méthodes
+          de facilitation ou les modes de fonctionnement d’organisations.
  
