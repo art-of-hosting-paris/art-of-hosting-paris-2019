@@ -6,7 +6,8 @@ subtitle:
 
 
 items:
-  - image: 
+  - width: 6
+    image: 
       src: "hop"
   - description: |-
       “L'Art of Hosting Conversations that matter” (AoH) est un réseau mondial de facilitateurs qui développent et pratiquent depuis plus de vingt ans des pratiques et méthodes participatives s’appuyant sur les capacités d’auto-organisation des groupes.

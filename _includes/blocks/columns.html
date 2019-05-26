@@ -8,14 +8,32 @@
             </div>
         </div>
         <div class="row">
+        	{% comment %} Compute width for pre-defined objects {% endcomment %}
+        	{% assign predefined_width = 0 %}
+        	{% assign free_columns = 0 %}
+			{% for item in block_data.items %}
+				{% if item.width and item.width != "" %}
+        			{% assign predefined_width = predefined_width | plus: item.width %}
+        		{% else %}
+        			{% assign free_columns = free_columns | plus: 1 %}
+				{% endif %}
+			{% endfor%}
+
         	{% assign bs_columns = block_data.items | size | at_least: 1 %}
-        	{% assign bs_column_md = 12 | divided_by: bs_columns | at_most: 12 %}
-        	{% assign bs_column_sm = bs_column_md | times: 2 | at_most: 12 %}
-        	{% assign bs_column_xs = bs_column_md | times: 3 | at_most: 12 %}
+
             {% for item in block_data.items %}
-            <div class="col-xs-{{ bs_column_xs }} col-sm-{{ bs_column_sm }} col-md-{{ bs_column_md }}">
-            	{{ item.description | markdownify }}
-            </div>
+            	{% if item.width and item.width != "" %}
+        			{% assign bs_column_md = item.width %}
+            	{% else %}
+            		{% assign bs_total_width = 12 | minus: predefined_width %}
+        			{% assign bs_column_md = bs_total_width | divided_by: free_columns | at_most: 12 %}
+            	{% endif %}
+        		{% assign bs_column_sm = bs_column_md | times: 2 | at_most: 12 %}
+        		{% assign bs_column_xs = bs_column_md | times: 3 | at_most: 12 %}
+
+            	<div class="col-xs-{{ bs_column_xs }} col-sm-{{ bs_column_sm }} col-md-{{ bs_column_md }}">
+            		{{ item.description | markdownify }}
+            	</div>
             {% endfor %}
         </div>
     </div>
