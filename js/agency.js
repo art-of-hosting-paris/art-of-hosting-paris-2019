@@ -67,7 +67,7 @@ $(document).ready(function(){
 
 	var hash = document.location.hash;
 	var $window = $(window);
-	$(hash).modal('show');
+	// $(hash).modal('show'); // FIXME: only if there is a modal for this hash
 	$window.trigger('scroll');
 	$window.trigger('resize');
 });
