@@ -1,17 +1,51 @@
 
 @import "../config/constants.scss";
 
+
+.bc-block.bc-theme-lightgrey {
+	background-color:  lighten(#888, 40%);
+	color: $colorBlack;
+	a {
+	  color: $colorSecondary;
+	}
+}
+
+.bc-block.bc-theme-darkgrey {
+	background-color:  darken(#888, 40%);
+	color: $colorWhite;
+	a {
+	  color: $colorSecondary;
+	}
+}
+
 .bc-block.bc-theme-primary {
 	background-color:  $colorPrimary;
 	color: $colorWhite;
+	a {
+	  color: $colorSecondary;
+	}
+}
+
+.bc-block.bc-theme-lightprimary {
+	background-color:  lighten($colorPrimary, 60%);
+	color: $colorBlack;
+	a {
+	  color: $colorSecondary;
+	}
 }
 
 .bc-block.bc-theme-secondary {
 	background-color:  $colorSecondary;
-	color: $colorWhite;
+	color: $colorBlack;
+	a {
+	  color: $colorPrimary;
+	}
 }
 
 .bc-block.bc-theme-tertiary {
 	background-color:  $colorTertiary;
 	color: $colorWhite;
+	a {
+	  color: lighten($colorPrimary, 10%);
+	}
 }
