@@ -7,105 +7,106 @@ subtitle: |-
   vidéos, d’articles, de livres de références et d’exemples de projets
   pour vous présenter en détail l’Art of Hosting et ses nombreuses applications
 
-items:
-  - description: |-
-      * [La page ressources du site de l'Art of Hosting en Français](http://www.artofhosting.org/fr/ressources/)
-     
-      ## Vidéos
-      
-      Voici des liens vers des vidéos concernant les différentes théories et méthodes que nous utilisons. 
-      La plupart sont pour l'instant en anglais, quelques unes en français en début de liste.
+rows:
+  - columns:
+    - description: |-
+        * [La page ressources du site de l'Art of Hosting en Français](http://www.artofhosting.org/fr/ressources/)
+       
+        ## Vidéos
+        
+        Voici des liens vers des vidéos concernant les différentes théories et méthodes que nous utilisons. 
+        La plupart sont pour l'instant en anglais, quelques unes en français en début de liste.
 
-      * [L'art of Hosting, qu'est-ce que c'est ? par Nancy Bragard](https://youtu.be/lix6laQciog)
-      * [La pratique des 4 dimensions (en français)](https://www.youtube.com/watch?v=yzB385ja-YM)
-      * [Art of Hosting - introduction](https://vimeo.com/72614471)
-      * [Community Conversations for the common good]( https://vimeo.com/40679035)
-      * [Four-fold Practice](https://vimeo.com/69785461)
-      * [Harvesting](https://vimeo.com/69785465)
-      * [Collective Story Harvest](https://vimeo.com/69798732)
-      * [Chaordic Path](https://vimeo.com/69785462)
-      * [Chaordic Stepping Stones](https://vimeo.com/69798731)
-      * [Circle Process](https://vimeo.com/69785464)
-      * [Open Space Technology](https://vimeo.com/69798729)
-      * [ProAction Cafe](https://vimeo.com/69798730)
-      * [World Cafe](https://vimeo.com/69798733)
-      * [Two Loops of System Change](http://vimeo.com/17907928)
+        * [L'art of Hosting, qu'est-ce que c'est ? par Nancy Bragard](https://youtu.be/lix6laQciog)
+        * [La pratique des 4 dimensions (en français)](https://www.youtube.com/watch?v=yzB385ja-YM)
+        * [Art of Hosting - introduction](https://vimeo.com/72614471)
+        * [Community Conversations for the common good]( https://vimeo.com/40679035)
+        * [Four-fold Practice](https://vimeo.com/69785461)
+        * [Harvesting](https://vimeo.com/69785465)
+        * [Collective Story Harvest](https://vimeo.com/69798732)
+        * [Chaordic Path](https://vimeo.com/69785462)
+        * [Chaordic Stepping Stones](https://vimeo.com/69798731)
+        * [Circle Process](https://vimeo.com/69785464)
+        * [Open Space Technology](https://vimeo.com/69798729)
+        * [ProAction Cafe](https://vimeo.com/69798730)
+        * [World Cafe](https://vimeo.com/69798733)
+        * [Two Loops of System Change](http://vimeo.com/17907928)
 
-  - description: |-
+    - description: |-
 
-      ### Articles 
-      Vous trouverez ici un ensemble d’articles qui abordent l’Art d’Accueillir des Conversations qui Comptent et le Leadership Participatif.
+        ### Articles 
+        Vous trouverez ici un ensemble d’articles qui abordent l’Art d’Accueillir des Conversations qui Comptent et le Leadership Participatif.
 
-      * [From Hero to Host : a story of citizenship in Columbus, Ohio](http://berkana.org/berkana_articles/from-hero-to-host-a-story-of-citizenship-in-columbus-ohio/)
-      Extrait d’un livre écrit par Meg Wheatley et Deborah Frieze, raconte comment la pratique Art of Hosting a été mise en place à Columbus Ohio. Par Deborah Frieze et Margaret Wheatley, 2010 
+        * [From Hero to Host : a story of citizenship in Columbus, Ohio](http://berkana.org/berkana_articles/from-hero-to-host-a-story-of-citizenship-in-columbus-ohio/)
+        Extrait d’un livre écrit par Meg Wheatley et Deborah Frieze, raconte comment la pratique Art of Hosting a été mise en place à Columbus Ohio. Par Deborah Frieze et Margaret Wheatley, 2010 
 
-      * [Core Practices of Life-Affirming Leaders](http://berkana.org/berkana_articles/core-practices-of-life-affirming-leaders/)
-      les comportements et pratiques de leaders capables de nourrir et de susciter le meilleur de chacun. 
+        * [Core Practices of Life-Affirming Leaders](http://berkana.org/berkana_articles/core-practices-of-life-affirming-leaders/)
+        les comportements et pratiques de leaders capables de nourrir et de susciter le meilleur de chacun. 
 
-      * [Leadership in the Age of Complexity](http://berkana.org/berkana_articles/leadership-in-the-age-of-complexity/)
-      Pendant trop longtemps, beaucoup d’entre-nous ont été fascinés par les héros. C’est peut-être notre désir d’être sauvé, de ne pas vouloir faire le travail difficile, ou de pouvoir nous reposer sur quelqu’un d’autre. 
+        * [Leadership in the Age of Complexity](http://berkana.org/berkana_articles/leadership-in-the-age-of-complexity/)
+        Pendant trop longtemps, beaucoup d’entre-nous ont été fascinés par les héros. C’est peut-être notre désir d’être sauvé, de ne pas vouloir faire le travail difficile, ou de pouvoir nous reposer sur quelqu’un d’autre. 
 
-      * [Participatory engagement](http://www.artofhosting.org/wp-content/uploads/2012/10/100921ParticipatoryengagementCCorrigan.pdf)
-      Un document de réflexion et un modèle pour susciter l’engagement et amener des leaders à s’investir dans des initiatives pour la communauté.
+        * [Participatory engagement](http://www.artofhosting.org/wp-content/uploads/2012/10/100921ParticipatoryengagementCCorrigan.pdf)
+        Un document de réflexion et un modèle pour susciter l’engagement et amener des leaders à s’investir dans des initiatives pour la communauté.
 
-      * [Hosting in a hurry](http://www.artofhosting.org/wp-content/uploads/2012/10/Hostinginahurryversion1.5ChrisC.pdf)
-      Un guide rapide et efficace pour organiser des conversations qui comptent
+        * [Hosting in a hurry](http://www.artofhosting.org/wp-content/uploads/2012/10/Hostinginahurryversion1.5ChrisC.pdf)
+        Un guide rapide et efficace pour organiser des conversations qui comptent
 
-      * [Are we asking the right questions?](http://articles.boston.com/2012-05-20/ideas/31749763_1_questions-zero-answers-doctors)
-      D’après un groupe de penseurs, les questions ont le pouvoir surprenant de pouvoir améliorer nos vies, si seulement nous prenons la peine de comprendre comment elles fonctionnent
+        * [Are we asking the right questions?](http://articles.boston.com/2012-05-20/ideas/31749763_1_questions-zero-answers-doctors)
+        D’après un groupe de penseurs, les questions ont le pouvoir surprenant de pouvoir améliorer nos vies, si seulement nous prenons la peine de comprendre comment elles fonctionnent
 
-      * [Conversation as core Business process](http://www.artofhosting.org/wp-content/uploads/2012/10/1997JBrownDIsaacsConversationascoreBusinessprocess.pdf)
-      Considérez un instant que l’apprentissage le plus répandu et le plus ancré dans les organisations n’ait pas lieu dans les salles de formation, de conférence ou de réunion, mais à la cafétéria, dans les couloirs et les cafés d’en face.
+        * [Conversation as core Business process](http://www.artofhosting.org/wp-content/uploads/2012/10/1997JBrownDIsaacsConversationascoreBusinessprocess.pdf)
+        Considérez un instant que l’apprentissage le plus répandu et le plus ancré dans les organisations n’ait pas lieu dans les salles de formation, de conférence ou de réunion, mais à la cafétéria, dans les couloirs et les cafés d’en face.
 
-      * [Leadership is a conversation](http://www.harvardbusiness.org/sites/default/files/HBR_Leadership_Is_a_Conversation.pdf)
-      L’approche managériale de « command-and-control » est devenue de plus en plus inadaptée ces dernières années.  Qu’est-ce qui va remplacer ce modèle ?
+        * [Leadership is a conversation](http://www.harvardbusiness.org/sites/default/files/HBR_Leadership_Is_a_Conversation.pdf)
+        L’approche managériale de « command-and-control » est devenue de plus en plus inadaptée ces dernières années.  Qu’est-ce qui va remplacer ce modèle ?
 
-      * [The Future of Work: the Art of Collaborative Leadership](http://www.huffingtonpost.com/monique-svazlian-cpcc-acc/the-future-of-work-the-art-of-collaborative-leaders_b_3254535.html)
+        * [The Future of Work: the Art of Collaborative Leadership](http://www.huffingtonpost.com/monique-svazlian-cpcc-acc/the-future-of-work-the-art-of-collaborative-leaders_b_3254535.html)
 
-  - description: |-
-      ### Livres 
-      
-      Des livres sur les méthodes que nous utilisons
+    - description: |-
+        ### Livres 
+        
+        Des livres sur les méthodes que nous utilisons
 
-      __Théorie U__ : Diriger à partir du futur émergent, d'Otto Scharmer
-      La Théorie U est un modèle de conduite du changement, dont la perspective transforme radicalement la façon dont les groupes et les individus abordent une situation, puis y répondent.
+        __Théorie U__ : Diriger à partir du futur émergent, d'Otto Scharmer
+        La Théorie U est un modèle de conduite du changement, dont la perspective transforme radicalement la façon dont les groupes et les individus abordent une situation, puis y répondent.
 
-      Don’t Just Do Something, Stand There, de Marvin Weisbord et Sandra Janoff
-      Ce livre présente 10 principes clés qui changent notre façon de concevoir et d’organiser nos réunions. Il nous aide à organiser des réunions utiles, engageantes et qui comptent pour les personnes présentes. 
+        Don’t Just Do Something, Stand There, de Marvin Weisbord et Sandra Janoff
+        Ce livre présente 10 principes clés qui changent notre façon de concevoir et d’organiser nos réunions. Il nous aide à organiser des réunions utiles, engageantes et qui comptent pour les personnes présentes. 
 
-      La cinquième discipline – Le guide de terrain, de Peter Senge
-      Peter Senge explique pourquoi “l’organisation apprenante” est importante, et invite les organisations à pratiquer cinq disciplines, arts ou pratiques qui leur permettent de le devenir. 
+        La cinquième discipline – Le guide de terrain, de Peter Senge
+        Peter Senge explique pourquoi “l’organisation apprenante” est importante, et invite les organisations à pratiquer cinq disciplines, arts ou pratiques qui leur permettent de le devenir. 
 
-      Le coaching avec la méthode appréciative, de Jean Pagès
-      Cette technique de coaching fait émerger le changement à partir d’expériences positives. Elle a pour but de créer de nouvelles habitudes mentales et un nouvel état d’esprit qui stimulent l’innovation et la créativité. 
+        Le coaching avec la méthode appréciative, de Jean Pagès
+        Cette technique de coaching fait émerger le changement à partir d’expériences positives. Elle a pour but de créer de nouvelles habitudes mentales et un nouvel état d’esprit qui stimulent l’innovation et la créativité. 
 
-      Le livre blanc sur le forum-ouvert, de 10 spécialistes du Forum-Ouvert
-      Le livre blanc illustré présente des visions, des témoignages, des photos, le déroulé et d’autres ressources concernant le Forum Ouvert. Le Forum Ouvert est un processus organisationnel structuré qui permet l’émergence d’idées nouvelles.
+        Le livre blanc sur le forum-ouvert, de 10 spécialistes du Forum-Ouvert
+        Le livre blanc illustré présente des visions, des témoignages, des photos, le déroulé et d’autres ressources concernant le Forum Ouvert. Le Forum Ouvert est un processus organisationnel structuré qui permet l’émergence d’idées nouvelles.
 
-      The World Cafe, Shaping Our Futures Through Conversations That Matter, de Juanita Brown et David Isaacs
-      Le World Café est un processus conversationnel efficace et inspirant, qui permet le dialogue en grand groupe, et rend la connaissance et la sagesse collectives visibles. 
+        The World Cafe, Shaping Our Futures Through Conversations That Matter, de Juanita Brown et David Isaacs
+        Le World Café est un processus conversationnel efficace et inspirant, qui permet le dialogue en grand groupe, et rend la connaissance et la sagesse collectives visibles. 
 
-      Les fondements humains du leadership, de Christophe Le Buhan et Jacques Santini
-      Ce livre propose une méthode pour entrer dans un leadership humain et accessible à tous. Il fonde son efficacité sur la conviction que le plus humain, c’est le plus efficace durablement.
+        Les fondements humains du leadership, de Christophe Le Buhan et Jacques Santini
+        Ce livre propose une méthode pour entrer dans un leadership humain et accessible à tous. Il fonde son efficacité sur la conviction que le plus humain, c’est le plus efficace durablement.
 
-      Calling the Circle, de Christina Baldwin
-      Christina Baldwin offre un outil puissant à toute personne qui aspire à faire partie d’une communauté fondée sur l’honnêteté, l’égalité et l’intégrité spirituelle.
+        Calling the Circle, de Christina Baldwin
+        Christina Baldwin offre un outil puissant à toute personne qui aspire à faire partie d’une communauté fondée sur l’honnêteté, l’égalité et l’intégrité spirituelle.
 
-      The Change Handbook, Eds. Peggy Holman, Steven Cady, et Tom Devane
-      Livre décisif qui invite les personnes et les organisations à se rassembler autour de thématiques qui comptent pour eux, de façon à libérer l’énergie et la sagesse nécessaires pour transformer les rêves en actions.
+        The Change Handbook, Eds. Peggy Holman, Steven Cady, et Tom Devane
+        Livre décisif qui invite les personnes et les organisations à se rassembler autour de thématiques qui comptent pour eux, de façon à libérer l’énergie et la sagesse nécessaires pour transformer les rêves en actions.
 
-      Community: The Structure of Belonging, de Peter Block
-      Ce livre propose une façon de penser aux lieux que nous fréquentons, sous un angle qui ouvre la porte à l’émergence de communautés authentiques, et détaille ce que chacun d’entre-nous peut faire pour que cela arrive.
+        Community: The Structure of Belonging, de Peter Block
+        Ce livre propose une façon de penser aux lieux que nous fréquentons, sous un angle qui ouvre la porte à l’émergence de communautés authentiques, et détaille ce que chacun d’entre-nous peut faire pour que cela arrive.
 
-      Engaging Emergence, de Peggy Holman
-      Ce livre montre comment reconnaître l’émergence d’un nouvel ordre au milieu du changement chaotique apparent, et propose des pratiques et des principes pour nous aider à nous adapter et à adapter notre organisation à l’ordre émergent.
+        Engaging Emergence, de Peggy Holman
+        Ce livre montre comment reconnaître l’émergence d’un nouvel ordre au milieu du changement chaotique apparent, et propose des pratiques et des principes pour nous aider à nous adapter et à adapter notre organisation à l’ordre émergent.
 
-      Finding Our Way, de Margaret Wheatley
-      Un résumé complet des pensées de l’une des théoriciennes organisationnelles les plus originale et créative de notre temps.
+        Finding Our Way, de Margaret Wheatley
+        Un résumé complet des pensées de l’une des théoriciennes organisationnelles les plus originale et créative de notre temps.
 
-      Presence, de Betty Sue Flowers, Otto Scharmer, Joseph Jaworski et Peter Senge
-      Cette série de conversations sur un an met en lumière la capacité humaine à « être présent » — à pré-sentir, à devenir présent à un futur émergent.
+        Presence, de Betty Sue Flowers, Otto Scharmer, Joseph Jaworski et Peter Senge
+        Cette série de conversations sur un an met en lumière la capacité humaine à « être présent » — à pré-sentir, à devenir présent à un futur émergent.
 
-      Walk Out Walk On, de Margaret Wheatley et Debbie Frieze
-      Ce livre apporte un témoignage direct sur la manière dont 7 communautés saines et résilientes ont su prendre en charge des problèmes difficiles, en travaillant ensemble grâce à de nouvelles façons.
+        Walk Out Walk On, de Margaret Wheatley et Debbie Frieze
+        Ce livre apporte un témoignage direct sur la manière dont 7 communautés saines et résilientes ont su prendre en charge des problèmes difficiles, en travaillant ensemble grâce à de nouvelles façons.
 

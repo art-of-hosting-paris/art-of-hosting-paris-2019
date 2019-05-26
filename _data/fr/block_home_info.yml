@@ -4,30 +4,31 @@ layout: columns
 title: Informations pratiques
 subtitle: |-
 
-items:
-  - description: |-
-      ### Quand ? 
+rows:
+  - columns:
+    - description: |-
+        ### Quand ? 
 
-      __Le séminaire se déroulera les mercredi 25, jeudi 26 et vendredi 27 septembre, de 9h à 18h.__<br/>
-      Des moments optionnels et co-créés avec les participantes et participants auront lieu durant les soirées.
+        __Le séminaire se déroulera les mercredi 25, jeudi 26 et vendredi 27 septembre, de 9h à 18h.__<br/>
+        Des moments optionnels et co-créés avec les participantes et participants auront lieu durant les soirées.
 
-      ### Où ?  
+        ### Où ?  
 
-      Loft Pelleport, 66 Rue Pelleport, 75020 Paris 
+        Loft Pelleport, 66 Rue Pelleport, 75020 Paris 
 
 
-  - description: |-
-      ### Combien ça coûte ?
+    - description: |-
+        ### Combien ça coûte ?
 
-      __Option #1 : financement par l'employeur__<br/>
-      __Tarif entreprises : 1200€ TTC__ <br/>
-      __Tarif ONG / associations : 840€ TTC__ <br/>
-      *Possibilité de faire une demande financement par OPCA ; contacter maiwennfb@paidia.net pour transmission des documents nécessaires.*
+        __Option #1 : financement par l'employeur__<br/>
+        __Tarif entreprises : 1200€ TTC__ <br/>
+        __Tarif ONG / associations : 840€ TTC__ <br/>
+        *Possibilité de faire une demande financement par OPCA ; contacter maiwennfb@paidia.net pour transmission des documents nécessaires.*
 
- 
+   
 
-      __Option #2 : financement individuel en modèle “d’économie partagée”__ <br/>
-      __Frais d'inscription : 250€ TTC__<br/>
-      __Frais pédagogiques : participation en conscience à l'issue du séminaire en prenant en considération son coût global, sa valeur pour vous et vos ressources financières__<br/>
-  
+        __Option #2 : financement individuel en modèle “d’économie partagée”__ <br/>
+        __Frais d'inscription : 250€ TTC__<br/>
+        __Frais pédagogiques : participation en conscience à l'issue du séminaire en prenant en considération son coût global, sa valeur pour vous et vos ressources financières__<br/>
+    
 

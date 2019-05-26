@@ -4,29 +4,31 @@ layout: columns
 title: The Art Of Hosting Conversations that matter
 subtitle: Qu'est ce que c'est ?
 
-items:
-  - description: |-
-      L’Art of Hosting vise à remettre la pratique consciente et générative de
-      la conversation au centre des organisations humaines, et refaire de cet
-      art souvent oublié un pilier de l’accompagnement du changement.
+rows:
+  - columns:
+    - description: |-
+        L’Art of Hosting vise à remettre la pratique consciente et générative de
+        la conversation au centre des organisations humaines, et refaire de cet
+        art souvent oublié un pilier de l’accompagnement du changement.
 
-      Cette approche a fait ses preuves sur tous les continents, aussi bien
-      dans des institutions internationales (commission européenne notamment)
-      que dans des entreprises, collectivités et associations.
+        Cette approche a fait ses preuves sur tous les continents, aussi bien
+        dans des institutions internationales (commission européenne notamment)
+        que dans des entreprises, collectivités et associations.
 
-      Elle est en forte résonance avec la Théorie du U de O. Scharmer et le
-      travail Reinventing Organizations de F. Laloux. Elle est par ailleurs à l’origine
-      des World Café, Pro-Action Café, Forum Ouvert et de l’Approche appréciative
+        Elle est en forte résonance avec la Théorie du U de O. Scharmer et le
+        travail Reinventing Organizations de F. Laloux. Elle est par ailleurs à l’origine
+        des World Café, Pro-Action Café, Forum Ouvert et de l’Approche appréciative
 
-      Le réseau Art of Hosting se diffuse et grandit rapidement à travers le
-      monde depuis une vingtaine d’années. Des organisations, des communautés
-      et des individus de tous horizons prennent part à cette nouvelle façon
-      d’appréhender le monde et  la collaboration humaine.
+    - description: |-
+        Le réseau Art of Hosting se diffuse et grandit rapidement à travers le
+        monde depuis une vingtaine d’années. Des organisations, des communautés
+        et des individus de tous horizons prennent part à cette nouvelle façon
+        d’appréhender le monde et  la collaboration humaine.
 
-      Le premier séminaire découverte AoH en France remonte à 2009 ; La
-      communauté s’étoffe depuis, au fil des séminaires, évènements et
-      rencontres, et de l’intégration de ces pratiques dans les méthodes de
-      facilitation et les modes de fonctionnement d’organisations.
+        Le premier séminaire découverte AoH en France remonte à 2009 ; La
+        communauté s’étoffe depuis, au fil des séminaires, évènements et
+        rencontres, et de l’intégration de ces pratiques dans les méthodes de
+        facilitation et les modes de fonctionnement d’organisations.
 
-      [en savoir plus...]()
+        [En savoir plus sur Art of Hosting &rarr;](/a-propos-d-aoh)
 
