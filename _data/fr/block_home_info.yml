@@ -3,13 +3,12 @@ theme: lightgrey
 layout: columns
 title: Informations pratiques
 subtitle: |-
-  Puisque c'est pratique on vous dit !
 
 items:
   - description: |-
       ### Quand ? 
 
-      __Le séminaire se déroulera les mercredi 25, jeudi 26 et vendredi 27 septembre, de 9h à 18h.__
+      __Le séminaire se déroulera les mercredi 25, jeudi 26 et vendredi 27 septembre, de 9h à 18h.__<br/>
       Des moments optionnels et co-créés avec les participantes et participants auront lieu durant les soirées.
 
       ### Où ?  
@@ -20,13 +19,15 @@ items:
   - description: |-
       ### Combien ça coûte ?
 
-      __Je souhaite m'inscrire via le modèle "traditionnel" : 1 200 € TTC__<br/>
-      *Prise en charge OPCA par les entreprises, ou autres structures qui 
-      ne permet pas au participant de participer au modèle d’économie partagée.
-      Contacter XXX pour les prises en charge OPCA,*
+      __Option #1 : financement par l'employeur__<br/>
+      __Tarif entreprises : 1200€ TTC__ <br/>
+      __Tarif ONG / associations : 840€ TTC__ <br/>
+      *Possibilité de faire une demande financement par OPCA ; contacter maiwennfb@paidia.net pour transmission des documents nécessaires.*
 
-      __Je souhaite m'inscrire via le modèle “d’économie partagée”__ <br/>
-      __Inscription: 230 € TTC + participation consciente après le séminaire.__<br/>
-      *En prenant en compte le coût global, sa valeur pour vous et vos
-      ressources financières.*
+ 
+
+      __Option #2 : financement individuel en modèle “d’économie partagée”__ <br/>
+      __Frais d'inscription : 250€ TTC__<br/>
+      __Frais pédagogiques : participation en conscience à l'issue du séminaire en prenant en considération son coût global, sa valeur pour vous et vos ressources financières__<br/>
+  
 

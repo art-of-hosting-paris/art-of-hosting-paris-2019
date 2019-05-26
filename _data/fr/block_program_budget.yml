@@ -1,24 +1,24 @@
 id: program-notre-budget
 theme: lightgrey
 layout: columns
-title: Notre budget
-subtitle: "« Comment payer »"
+title: Budget et modèle économique
+subtitle: 
 
 items:
   - description: |-
-      Nous partageons une intuition, nourrie des constats que nous faisons chaque jour dans nos activités respectives de facilitateurs, consultants, coachs et accompagnants d’équipes et d’organisations : nous sommes à un moment de tournant et on ne pourra bientôt plus faire « comme avant ». 
+      Le prix du séminaire de 3 jours (pédagogie, lieu, nourriture) est de :__<br/>
+       - __950 € TTC pour les participants à titre individuel (coût estimé)__<br/>
+       - __1200 € TTC pour ceux dont la formation est financée par leur employeur (avec réduction de -30% pour les associations / ONG)__<br/>
 
-      Face d’une part à la résistance d’un ancien monde qui sent qu’il va s’éteindre, et face d’autre part au besoin pressant de construire le monde qui vient, les actions se multiplient dans un sens comme dans l’autre, et viennent amplifier de toute part la complexité dans laquelle nous évoluons. 
+      Pour le prix individuel, il est composé :
+        - d'une part des frais d'inscription : location de salle, repas et frais de structure -- de 250 € TTC<br/>
+        *Ceux-ci sont incompressibles, et donc à régler au moment de l’inscription*
+        - d'autre part des frais pédagogiques -- estimés à 700 € TTC<br/>
+        *Ceux-ci comprennent l'organisation, la conception, la préparation et animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
+      
+      La raison pour laquelle nous proposons ce mode de fonctionnement est double :  
+      - Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
+      - Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 
 
-      Pour écrire un récit commun, que ce soit dans les entreprises et organisations ou dans la société, nous partageons une conviction : la vraie urgence est celle de ralentir. 
-
-  - description: |-
-      Ralentir pour changer de posture, pour se parler, s'écouter, et se poser les questions qui comptent vraiment... 
-
-      * Comment nous enraciner, pour accueillir les changements sans les subir? 
-      * Comment en devenir des acteurs et facilitateurs, chacun et chacune, dans nos fonctions et nos métiers, dans nos organisations et dans nos communautés ? 
-      * Comment connecter les efforts au delà des structures et silos, pour amener le pouvoir d’action de chacun à un tout autre niveau - celui de la sagesse collective ? 
-      * Comment pouvons nous nous libérer, afin de libérer nos organisations ? 
-      * Comment pouvons soutenir les nouvelles générations dans la construction de l’avenir ? 
-
-
+     
+  
