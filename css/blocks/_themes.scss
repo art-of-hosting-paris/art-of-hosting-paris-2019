@@ -1,6 +1,9 @@
 
 @import "../config/constants.scss";
 
+.bc-block img {
+  width: 100%;
+}
 
 .bc-block.bc-theme-lightgrey {
 	background-color:  lighten(#888, 40%);

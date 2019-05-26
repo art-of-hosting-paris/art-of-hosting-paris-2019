@@ -23,6 +23,10 @@ rows:
         Au final, un ensemble de méthodes simples et puissantes permettant de concevoir
         et animer des conversations, process, réunions et évènements d'une manière
         engageante et participative.
+    - image:
+        src: /img/illustration/seminaire_program.jpg
+        alt: Illustration AoH
+      width: 6
 
   - columns:
     - description: ""

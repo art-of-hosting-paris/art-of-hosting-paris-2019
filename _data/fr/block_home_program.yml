@@ -35,7 +35,7 @@ rows:
 
         [Pour en savoir plus sur le séminaire &rarr;](/le-programme)
     - image:
-        src: ""
-        alt: ""
+        src: /img/illustration/home_seminaire.jpg
+        alt: Illustration AoH
       width: 6
 

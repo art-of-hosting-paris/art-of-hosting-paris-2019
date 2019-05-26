@@ -12,7 +12,12 @@ rows:
         Face d’une part à la résistance d’un ancien monde qui sent qu’il va s’éteindre, et face d’autre part au besoin pressant de construire le monde qui vient, les actions se multiplient dans un sens comme dans l’autre, et viennent amplifier de toute part la complexité dans laquelle nous évoluons. 
 
         Pour écrire un récit commun, que ce soit dans les entreprises et organisations ou dans la société, nous partageons une conviction : la vraie urgence est celle de ralentir. 
+    - image:
+        src: /img/illustration/home_aoh.jpg
+        alt: Illustration AoH
+      width: 6
 
+  - columns:
     - description: |-
         Ralentir pour changer de posture, pour se parler, s'écouter, et se poser les questions qui comptent vraiment... 
 

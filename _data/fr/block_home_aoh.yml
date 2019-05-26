@@ -19,6 +19,11 @@ rows:
         travail Reinventing Organizations de F. Laloux. Elle est par ailleurs à l’origine
         des World Café, Pro-Action Café, Forum Ouvert et de l’Approche appréciative
 
+    - width: 6
+      image:
+        src: /img/illustration/home_aoh.jpg
+        alt: Illustration AoH
+  - columns:
     - description: |-
         Le réseau Art of Hosting se diffuse et grandit rapidement à travers le
         monde depuis une vingtaine d’années. Des organisations, des communautés
