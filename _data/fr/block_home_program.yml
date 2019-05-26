@@ -8,7 +8,8 @@ subtitle: |-
 
 rows:
   - columns:
-    - description: |-
+    - width: auto
+      description: |-
         Ces pratiques reposent sur l'Art de concevoir, faciliter et récolter
         les conversations importantes.
         Elles visent à remettre celles-ci au centre des organisations humaines pour leur redonner leur place majeure
@@ -24,12 +25,17 @@ rows:
           développer des solutions au dela et la complexité et des divergences
           d'opinion
         - des modèles et visions du monde permettant d'appréhender la complexité
-          et le changement systémique dans les organisations et enclencher des transformations des modes de collaboration dans vos écosystèmes. 
+          et le changement systémique dans les organisations et enclencher des
+          transformations des modes de collaboration dans vos écosystèmes. 
 
         Managers, consultants, facilitateurs, activistes du changement ou simples
         citoyens, vous y expérimenterez un ensemble d'approches participatives
         pour mieux faire appel à l’intelligence collective, et enclencher des
         transformations des modes de collaboration dans vos écosystèmes.
 
-        Pour en savoir plus...
+        [Pour en savoir plus sur le séminaire &rarr;](/le-programme)
+    - image:
+        src: ""
+        alt: ""
+      width: 6
 

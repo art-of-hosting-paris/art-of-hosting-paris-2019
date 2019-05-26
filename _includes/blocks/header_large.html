@@ -6,7 +6,14 @@
             <div class="intro-heading">{{ block_data.subtitle }}</div>
             <div class="intro-dates">{{ block_data.description }}</div>
             <div class="col-md-push-3 col-md-6">
-            <a href="{{ block_data.action_href }}" class="page-scroll btn btn-xl btn-block">{{ block_data.action }}</a>
+        	{% if block_data.action %}
+            <a href="{{ block_data.action.href }}" 
+               class="page-scroll btn btn-xl btn-block"
+               {% if block_data.action.blank %}
+               target="_blank"
+               {% endif %}
+               >{{ block_data.action.text }}</a>
+        	{% endif %}
             </div>
         </div>
     </div>
