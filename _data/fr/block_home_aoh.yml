@@ -1,6 +1,6 @@
 id: home-art-of-hosting
-theme: default
-layout: text_columns
+theme: primary
+layout: columns
 title: The Art Of Hosting Conversations that matter
 subtitle: Qu'est ce que c'est ?
 

@@ -1,7 +1,7 @@
 id: about-resources
-layout: text_columns
+layout: columns
 title: Ressources
-theme: default
+theme: tertiary
 subtitle: |-
   Nous avons sélectionné un ensemble de
   vidéos, d’articles, de livres de références et d’exemples de projets

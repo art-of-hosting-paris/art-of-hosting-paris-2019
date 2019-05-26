@@ -2,6 +2,7 @@
 - data: block_program_header
 - data: block_program_intent
 - data: block_program_event
+- data: block_program_budget
 - data: block_program_team
-- data: block_home_partners
+# - data: block_home_partners
 

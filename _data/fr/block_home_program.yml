@@ -1,6 +1,6 @@
 id: home-program
 theme: default
-layout: text_columns
+layout: columns
 title: Séminaire Découverte
 subtitle: |-
   3 jours d’atelier participatifs pour découvrir les pratiques développées

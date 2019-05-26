@@ -1,8 +1,8 @@
-id: program-notre-intention
-theme: default
+id: program-notre-budget
+theme: lightgrey
 layout: columns
-title: Notre invitation
-subtitle: "« Comment ralentir pour créer les conditions permettant de façonner ensemble le monde dans lequel nous voulons vivre ? »"
+title: Notre budget
+subtitle: "« Comment payer »"
 
 items:
   - description: |-
