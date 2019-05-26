@@ -24,29 +24,28 @@ rows:
         et animer des conversations, process, réunions et évènements d'une manière
         engageante et participative.
 
-    - description: |-
-        Pendant ces 3 jours, nous vous inviterons à apprendre, explorer et pratiquer :
-
-        Des outils pour mettre en place les conditions nécessaires à la coopération et
-        la collaboration dans un groupe et les amener à développer des solutions au
-        dela et la complexité et des divergences d'opinion
-
-        Des méthodes simples mais puissantes pour animer des conversations process,
-        réunions, et évènements d'une manière engageante et participative. 
-
-        Des modèles et visions du monde permettant d'appréhender la complexité et le
-        changement systémique dans les organisations...et la civilisation 
-
   - columns:
-    - image: 
-        width: 6
+    - description: ""
     - description: |-
         <hr/>
         <br/>
-    - image: 
-        width: 6
+    - description: ""
 
   - columns:
+    - description: |-
+        Pendant ces 3 jours, nous vous inviterons à apprendre, explorer et pratiquer :
+
+        * __Des outils__ pour mettre en place les conditions nécessaires à la
+          coopération et la collaboration dans un groupe et les amener à
+          développer des solutions au dela et la complexité et des divergences
+          d'opinion
+        * __Des méthodes__ simples mais puissantes pour animer des conversations
+          process, réunions, et évènements d'une manière engageante et
+          participative. 
+        * __Des modèles__ et visions du monde permettant d'appréhender la
+          complexité et le changement systémique dans les organisations...et la
+          civilisation 
+
     - description: |-
         Nous vous inviterons aussi à :
 
@@ -61,6 +60,14 @@ rows:
           nouvelles approches 
         * Rejoindre une communauté de pratique internationale 
 
+  - columns:
+    - description: ""
+    - description: |-
+        <hr/>
+        <br/>
+    - description: ""
+
+  - columns:
     - description: |-
 
         Managers, consultants, facilitateurs, activistes du changement ou simples
