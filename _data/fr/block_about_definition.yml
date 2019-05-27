@@ -11,10 +11,10 @@ rows:
         
         - Nous utilisons le mot « Art » car sentir ce dont un groupe a besoin comme conditions pour collaborer de manière saine et générative n'est pas une science exacte, et fait appel à tout un panel de qualités non mesurable – l’intuition, la sensibilité, le ressenti,… 
         - Nous parlons de « Hosting » (« accueillir », « initier », « contenir » - en fonction des contextes) en différenciation de la facilitation classique ou de la modération. Il ne s’agit ici pas d’appliquer coute que coute un process pré-défini, mais d’accompagner un groupe dans le passage de la complexité à la clarté, en laissant celui-ci découvrir son potentiel d’auto-organisation et d’intelligence collective.
-    - width: 4
-      image: 
-        src:
-        alt:
+    - width: 6
+      image:
+        src: /img/illustration/aoh_what.jpg
+        alt: AoH Qu'est ce que c'est ?
 
   - columns:
     - width: 4

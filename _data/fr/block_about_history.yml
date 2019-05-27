@@ -26,14 +26,16 @@ rows:
           le monde depuis une vingtaine d’années. Des organisations, des
           communautés et des individus de tous horizons prennent part à cette
           nouvelle façon d’appréhender le monde et  la collaboration humaine.
-      - width: 4
-        image: 
-          src: "hop"
+      - width: 6
+        image:
+          src: /img/illustration/aoh_history1.jpg
+          alt: AoH Qu'est ce que c'est ?
  
   - columns:
-      - width: 4
-        image: 
-          src: "hop"
+      - width: 6
+        image:
+          src: /img/illustration/aoh_history2.jpg
+          alt: AoH Qu'est ce que c'est ?
       - description: |-
           Le réseau Art of Hosting se diffuse et grandit rapidement à travers
           le monde depuis une vingtaine d’années. Des organisations, des

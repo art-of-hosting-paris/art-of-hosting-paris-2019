@@ -11,27 +11,14 @@ rows:
   - columns:
     - description: |-
         * [La page ressources du site de l'Art of Hosting en Français](http://www.artofhosting.org/fr/ressources/)
-       
-        ## Vidéos
-        
-        Voici des liens vers des vidéos concernant les différentes théories et méthodes que nous utilisons. 
-        La plupart sont pour l'instant en anglais, quelques unes en français en début de liste.
 
-        * [L'art of Hosting, qu'est-ce que c'est ? par Nancy Bragard](https://youtu.be/lix6laQciog)
-        * [La pratique des 4 dimensions (en français)](https://www.youtube.com/watch?v=yzB385ja-YM)
-        * [Art of Hosting - introduction](https://vimeo.com/72614471)
-        * [Community Conversations for the common good]( https://vimeo.com/40679035)
-        * [Four-fold Practice](https://vimeo.com/69785461)
-        * [Harvesting](https://vimeo.com/69785465)
-        * [Collective Story Harvest](https://vimeo.com/69798732)
-        * [Chaordic Path](https://vimeo.com/69785462)
-        * [Chaordic Stepping Stones](https://vimeo.com/69798731)
-        * [Circle Process](https://vimeo.com/69785464)
-        * [Open Space Technology](https://vimeo.com/69798729)
-        * [ProAction Cafe](https://vimeo.com/69798730)
-        * [World Cafe](https://vimeo.com/69798733)
-        * [Two Loops of System Change](http://vimeo.com/17907928)
+  - columns:
+    - description: ""
+    - description: |-
+        <hr/>
+    - description: ""
 
+  - columns:
     - description: |-
 
         ### Articles 
@@ -110,3 +97,30 @@ rows:
         Walk Out Walk On, de Margaret Wheatley et Debbie Frieze
         Ce livre apporte un témoignage direct sur la manière dont 7 communautés saines et résilientes ont su prendre en charge des problèmes difficiles, en travaillant ensemble grâce à de nouvelles façons.
 
+  - columns:
+    - description: ""
+    - description: |-
+        <hr/>
+    - description: ""
+
+  - columns:
+    - description: |-
+        ## Vidéos
+        
+        Voici des liens vers des vidéos concernant les différentes théories et méthodes que nous utilisons. 
+        La plupart sont pour l'instant en anglais, quelques unes en français en début de liste.
+
+        * [L'art of Hosting, qu'est-ce que c'est ? par Nancy Bragard](https://youtu.be/lix6laQciog)
+        * [La pratique des 4 dimensions (en français)](https://www.youtube.com/watch?v=yzB385ja-YM)
+        * [Art of Hosting - introduction](https://vimeo.com/72614471)
+        * [Community Conversations for the common good]( https://vimeo.com/40679035)
+        * [Four-fold Practice](https://vimeo.com/69785461)
+        * [Harvesting](https://vimeo.com/69785465)
+        * [Collective Story Harvest](https://vimeo.com/69798732)
+        * [Chaordic Path](https://vimeo.com/69785462)
+        * [Chaordic Stepping Stones](https://vimeo.com/69798731)
+        * [Circle Process](https://vimeo.com/69785464)
+        * [Open Space Technology](https://vimeo.com/69798729)
+        * [ProAction Cafe](https://vimeo.com/69798730)
+        * [World Cafe](https://vimeo.com/69798733)
+        * [Two Loops of System Change](http://vimeo.com/17907928)

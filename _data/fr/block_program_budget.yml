@@ -7,7 +7,7 @@ subtitle:
 rows:
   - columns:
     - description: |-
-        Le prix du séminaire de 3 jours (pédagogie, lieu, nourriture) est de :__<br/>
+        Le prix du séminaire de 3 jours (pédagogie, lieu, nourriture) est de :<br/>
          - __950 € TTC pour les participants à titre individuel (coût estimé)__<br/>
          - __1200 € TTC pour ceux dont la formation est financée par leur employeur (avec réduction de -30% pour les associations / ONG)__<br/>
 
@@ -16,10 +16,15 @@ rows:
           *Ceux-ci sont incompressibles, et donc à régler au moment de l’inscription*
           - d'autre part des frais pédagogiques -- estimés à 700 € TTC<br/>
           *Ceux-ci comprennent l'organisation, la conception, la préparation et animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
+    - image:
+        src: /img/illustration/seminaire_program.jpg
+        alt: Illustration AoH
+      width: 6
         
+  - columns:
+    - description: |-
         La raison pour laquelle nous proposons ce mode de fonctionnement est double :  
         - Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
         - Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 
 
-       
-    
+

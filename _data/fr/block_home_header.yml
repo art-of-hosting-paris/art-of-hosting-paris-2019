@@ -4,7 +4,10 @@ layout: header_large
 title: Art of Hosting
 subtitle: L'art du leadership participatif
 description: 25-27 septembre, à Paris
-action: Je veux être informé.e de l'ouverture des inscriptions
+action: 
+  text: Je m'inscris
+  href: https://www.weezevent.com/seminaire-decouverte-art-of-hosting-l-art-du-management-participatif
+  blank: true
 
 items: []
 
