@@ -11,40 +11,53 @@ items:
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/nancy-bragard-6a5818/
+      - title: 
+        url: 
 
   - name: Laure DUMONT
     picture: laure-dumont.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/laure-dumont-7306a01a/
+      - title: desktop
+        url: http://www.dubai2018.le8emejour.com/
 
   - name: Maïwenn FAVETTO-BON
     picture: maiwenn-favetto-bon.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/maiwennfb/
+      - title: desktop
+        url: http://www.paidia.net/
 
   - name: Stephan KRAJCIK 
     picture: stephan-krajcik.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/skrajcik/
+      - title: desktop
+        url: https://www.art-link.net/fran%C3%A7ais/profil/
 
   - name: Maud RICHET
     picture: maud-richet.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/maudrichet/
+      - title: desktop 
+        url: https://maudrichet.info/
 
   - name: Anne-Laure ROMANET
     picture: anne-laure-romanet.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/anne-laure-romanet-7154181b/
+      - title: 
+        url: 
 
   - name: Helen TITCHEN-BEETH
     picture: helen-titchen-beeth.jpg
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/helen-titchen-beeth-2098a12/
-
+      - title: desktop 
+        url: https://www.kosmosjournal.org/contributor/helen-titchen-beeth/

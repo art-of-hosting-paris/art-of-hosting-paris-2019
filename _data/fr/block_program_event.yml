@@ -7,9 +7,7 @@ subtitle: De quoi s'agit-il exactement ?
 rows:
   - columns:
     - description: |-
-        Venez vivre 3 jours d’atelier pour découvrir les pratiques développées depuis 20 ans par le réseau international Art of Hosting. 
-
-        Ces pratiques reposent sur l'Art de concevoir, faciliter et récolter les
+        L'Art of Hosting, c'est l'Art de concevoir, faciliter et récolter les
         conversations importantes, pour remettre celles-ci au centre des organisations
         humaines et leur redonner leur place majeure dans l'accompagnement du
         changement.
@@ -23,7 +21,7 @@ rows:
         et animer des conversations, process, réunions et évènements d'une manière
         engageante et participative.__
     - image:
-        src: /img/illustration/seminaire_program.jpg
+        src: /img/illustration/home_aoh.jpg
         alt: Illustration AoH
       width: 6
 

@@ -7,32 +7,31 @@ subtitle:
 rows:
   - columns:
     - description: |-
-        Le coût total par personne du séminaire de 3 jours (pédagogie, lieu, nourriture) est estimé à 900€ TTC :<br/>
-        Afin de permettre au plus grand nombre de personnes possibles de participer, nous proposons ici un modèle économique hybride <br/>
+        Le coût total par personne du séminaire de 3 jours (pédagogie, lieu, nourriture) est estimé à 900€ TTC <br/>
+        
+        Cependant, nous proposons pour ce séminaire un modèle économique hybride, pour deux raisons principales :
+        * Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
+        * Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 
 
-        Financement OPCA (formation professionelle) : 
+        __Option #1 : Financement individuel - modèle d'économie partagée__ 
+
+          * Frais d'inscription : location de salle, repas et frais de structure : 310 € TTC<br/>
+          *Ceux-ci sont incompressibles, et donc à régler au moment de l’inscription*
+          * Frais pédagogiques <br/>
+          *Ceux-ci comprennent l'organisation, la conception et l'animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
+        
+         Insérer ici image du modèle économoique 
+
+        __Option #2 : Financement par l'employeur (hors OPCA)__
+        Tarif entreprise : 1400€ TTC 
+        Tarif ONG / Association : 840€ TTC
+        
+        __Option #3 : Financement OPCA (prise en charge par la formation professionelle)__
         Tarif unique : 1400€ TTC 
         *Contacter maiwennfb@paidia.net pour transmission des documents nécessaires* 
 
-        Financement par l'employeur (hors OPCA) : 
-        Tarif entreprise : 1400€ TTC 
-        Tarif ONG / Association / Freelance : 840€ TTC
-
-        Financement individuel - modèle d'économie partagée
-
-          - Frais d'inscription : location de salle, repas et frais de structure -- de 310 € TTC<br/>
-          *Ceux-ci sont incompressibles, et donc à régler au moment de l’inscription*
-          - Frais pédagogiques <br/>
-          *Ceux-ci comprennent l'organisation, la conception, la préparation et animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
+        
     - image:
-        src: /img/illustration/seminaire_program.jpg
+        src: /img/illustration/modele economique.jpg
         alt: Illustration AoH
       width: 6
-        
-  - columns:
-    - description: |-
-        La raison pour laquelle nous proposons ce mode de fonctionnement est double :  
-        - Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
-        - Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 
-
-
