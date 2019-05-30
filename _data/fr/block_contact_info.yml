@@ -1,0 +1,20 @@
+id: contact-info
+theme: tertiary
+layout: columns
+title: Contacts 
+subtitle: |-
+
+rows:
+  - columns:
+    - description: |-
+        ### Pour transmission des documents nécessaires à la demande d'OPCA 
+
+        Contactez maiwennfb@paidia.net
+
+
+        ### Pour toutes autres questions relatives au séminaire   
+
+        Contactez info@artofhostingparis.org
+
+
+    
