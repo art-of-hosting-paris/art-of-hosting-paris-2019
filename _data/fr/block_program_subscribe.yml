@@ -7,17 +7,11 @@ subtitle:
 rows:
   - columns:
     - description: |-
-       __Quand ?__ <br/>
+       ### __Quand ?__ <br/>
        Le séminaire se déroulera les mercredi 25, jeudi 26 et vendredi 27 septembre, de 9h à 18h.
        **Des moments optionnels et co-créés avec les participantes et participants auront lieu durant les soirées**
        
-       __Où ?__ <br/>
+       ### __Où ?__ <br/>
        Loft Pelleport, 66 Rue Pelleport, 75020 Paris
-
-       __Pour s'inscrire__<br/>
-       Rendez-vous sur Weezevent en cliquant ici 
-
-       action: 
-        text: Je m'inscris
-        href: https://www.weezevent.com/seminaire-decouverte-art-of-hosting-l-art-du-management-participatif
-        blank: true
+ 
+       <a href="https://www.weezevent.com/seminaire-decouverte-art-of-hosting-l-art-du-management-participatif" target="_blank" class="btn btn-lg btn-default">Je m'inscris &rarr;</a>

@@ -37,12 +37,12 @@ title: Art Of Hosting Paris
 email: contact@artofhostingparis.org
 
 baseline_i18n:
-  fr: "Art of participatory leadership"
-  #  en: "Ethical outsourcing in Nepal"
+  fr: "Séminaire Découverte Art of Hosting"
+  #  en: "Art of participatory leadership"
 
 description_i18n:
-  fr: "Blob"
-  # en: "Our engagement: offering you top-quality technical services to carry out your website and mobile application projects"
+  fr: " jours d’atelier participatifs pour découvrir les pratiques d'intelligence collective développées depuis plus de 20 ans par le réseau international Art of Hosting"
+  # en: ""
 
 # JEKYLL PLUGINS
 # ==============
