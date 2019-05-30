@@ -1,12 +1,13 @@
 id: program-notre-budget
-theme: lightgrey
+theme: tertiary
 layout: columns
 title: Budget et modèle économique
 subtitle: 
 
 rows:
   - columns:
-    - description: |-
+    - width: auto
+      description: |-
         Le coût total par personne du séminaire de 3 jours (pédagogie, lieu, nourriture) est estimé à 900€ TTC <br/>
         
         Cependant, nous proposons pour ce séminaire un modèle économique hybride, pour deux raisons principales :

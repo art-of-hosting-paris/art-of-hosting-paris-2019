@@ -2,7 +2,7 @@ id: program-subscribe
 theme: primary
 layout: columns
 title: S'inscrire
-subtitle: Blabla
+subtitle: 
 
 rows:
   - columns:
