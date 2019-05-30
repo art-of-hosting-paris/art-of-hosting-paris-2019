@@ -15,11 +15,8 @@ rows:
           * Frais pédagogiques <br/>
           *Ceux-ci comprennent l'organisation, la conception et l'animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
         
-         Insérer ici image du modèle économoique 
-
-        
     - image:
-        src: /img/illustration/modele economique.jpg
+        src: /img/illustration/modele_economique.jpg
         alt: Illustration AoH
       width: 6
 
@@ -34,10 +31,20 @@ rows:
         Tarif unique : 1400€ TTC 
         *Contacter maiwennfb@paidia.net pour transmission des documents nécessaires* 
 
-        ### Notre philosophie 
+
+  - columns: 
+    - description: ""
+    - description: |-
+        <hr/>
+    - description: ""
+
+  - columns:
+    - width: auto
+      description: |-
+        ### Notre approche  
 
         Le coût total par personne du séminaire de 3 jours (pédagogie, lieu, nourriture) est estimé à 900€ TTC <br/>
         
-        Nous proposons pour ce séminaire un modèle économique hybride, parce que nous voulons :
+        Nous proposons ce modèle économique hybride, parce que nous voulons :
         * Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
         * Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 

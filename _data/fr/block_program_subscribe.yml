@@ -16,3 +16,8 @@ rows:
 
        __Pour s'inscrire__<br/>
        Rendez-vous sur Weezevent en cliquant ici 
+
+       action: 
+        text: Je m'inscris
+        href: https://www.weezevent.com/seminaire-decouverte-art-of-hosting-l-art-du-management-participatif
+        blank: true
