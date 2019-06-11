@@ -5,11 +5,18 @@
   width: 100%;
 }
 
+.bc-block {
+  a {
+    font-weight: bold;
+  }
+}
+
 .bc-block.bc-theme-lightgrey {
 	background-color:  lighten(#888, 40%);
 	color: $colorBlack;
 	a {
 	  color: $colorSecondary;
+	  font-weight: bold;
 	}
 }
 
@@ -18,6 +25,7 @@
 	color: $colorWhite;
 	a {
 	  color: $colorSecondary;
+	  font-weight: bold;
 	}
 }
 
@@ -26,6 +34,7 @@
 	color: $colorWhite;
 	a {
 	  color: $colorSecondary;
+	  font-weight: bold;
 	}
 }
 
@@ -34,6 +43,7 @@
 	color: $colorBlack;
 	a {
 	  color: $colorSecondary;
+	  font-weight: bold;
 	}
 }
 
@@ -42,6 +52,7 @@
 	color: $colorBlack;
 	a {
 	  color: $colorPrimary;
+	  font-weight: bold;
 	}
 }
 
@@ -49,6 +60,8 @@
 	background-color:  $colorTertiary;
 	color: $colorWhite;
 	a {
-	  color: lighten($colorPrimary, 10%);
+	  // color: lighten($colorPrimary, 10%);
+	  font-weight: bold;
+	  color: $colorSecondary;
 	}
 }
