@@ -11,7 +11,8 @@
     			{% when 'contact' %}{% include blocks/contact.html %}
     			{% when 'cards' %}{% include blocks/cards.html %}
     			{% when 'features' %}{% include blocks/features.html %}
-    			{% when 'people' %}{% include blocks/people.html %}
+    			{% when 'people' %}{% include blocks/people_large.html %}
+    			{% when 'people_large' %}{% include blocks/people_large.html %}
     			{% when 'columns' %}{% include blocks/columns.html %}
     			{% when 'partners' %}{% include blocks/partners.html %}
     			{% else %}Unknown type "{{ block_data.layout }}" in page "{{page.data}}"!

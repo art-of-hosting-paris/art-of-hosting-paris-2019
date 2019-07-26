@@ -1,0 +1,35 @@
+<!-- Team Section -->
+<section id="{{ block_data.id }}" class="bc-block bc-block-people bc-theme-{{ block_data.theme }}">
+  <div class="container">
+    <div class="row">
+      <div class="bc-block-heading col-lg-12">
+        <h2 class="bc-block-title">{{ block_data.title }}</h2>
+        <h3 class="bc-block-subtitle">{{ block_data.subtitle }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      {% for member in block_data.items %}
+      <div class="team-member col-xs-12 col-sm-6 col-md-6">
+        <div class="member-photo col-xs-6 col-sm-6 col-md-6">
+          <img src=" /img/team/{{ member.picture }}" 
+          	   class="img-responsive img-circle" alt="">
+        </div>
+        <div class="member-bio col-xs-6 col-sm-6 col-md-6">
+          <h4 class="text-left">{{ member.name }}</h4>
+          <p class="text-left">{{ member.biography }}</p>
+          <ul class="list-inline social-buttons">
+            {% for network in member.social %}
+            <li>
+              <a href="{{ network.url }}" target="_blank">
+                <i class="fa fa-{{ network.title }}"></i>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
