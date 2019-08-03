@@ -1,5 +1,6 @@
 
-.bc-block-people {
+.bc-block-people-large {
+
   .section-heading {
 	  margin-bottom: 75px;
   }
@@ -15,11 +16,13 @@
   }
 
   .team-member h4 {
-    margin-top: 25px;
+      margin-top: 0;
+    text-align: left;
     margin-bottom: 25px;
     height: 25px;
     text-transform: none;
   }
+
 
   .team-member p {
     margin-top: 0;
@@ -30,6 +33,7 @@
   }
 
   ul.social-buttons {
+    text-align: left;
     margin-bottom: 0;
   }
 
@@ -61,4 +65,16 @@
     background-color:  $colorPrimary ;
   }
 
+  @media (max-width: 768px) { 
+    // &.bc-block-people-large 
+    .team-member h4 {
+      margin-top: 25px;
+      text-align: center;
+    }
+    // 
+
+    ul.social-buttons {
+      text-align: center;
+    }
+  }
 }
