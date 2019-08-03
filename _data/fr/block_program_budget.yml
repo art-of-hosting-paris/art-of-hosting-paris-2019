@@ -8,12 +8,13 @@ rows:
   - columns:
     - width: auto
       description: |-
-        ### Option #1 : Financement individuel - modèle d'économie partagée
+        ### Option #1 : Financement individuel - pratique d'économie partagée
 
           * Frais d'inscription : location de salle, repas et frais de structure : 310 € TTC<br/>
           *Ceux-ci sont incompressibles, et donc à régler au moment de l’inscription*
-          * Frais pédagogiques <br/>
-          *Ceux-ci comprennent l'organisation, la conception et l'animation du séminaire, et seront à régler à l'issue de celui-ci, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
+          
+          * Frais pédagogiques : comprennent l'organisation, la conception et l'animation du séminaire <br/>
+          *Ceux-ci seront à régler à l'issue du séminaire, en fonction de sa valeur pour vous et de vos ressources financières*<br/>
         
     - image:
         src: /img/illustration/modele_economique.jpg

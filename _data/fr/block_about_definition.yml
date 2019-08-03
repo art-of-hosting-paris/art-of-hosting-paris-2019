@@ -17,10 +17,10 @@ rows:
         alt: AoH Qu'est ce que c'est ?
 
   - columns:
-    - width: 4
+    - width: 6
       image: 
-        src:
-        alt:
+        src: /img/illustration/seminaire_budget.jpg
+        alt: AoH Qu'est ce que c'est ?
     - description: |-
          Toutes ces pratiques reposent sur l'Art de concevoir, faciliter et récolter les conversations importantes, pour remettre celles-ci au centre des organisations humaines et leur redonner leur place majeure dans l'accompagnement du changement. 
 
