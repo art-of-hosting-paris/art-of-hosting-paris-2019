@@ -2,16 +2,16 @@ id: program-notre-intention
 theme: default
 layout: columns
 title: Notre invitation
-subtitle: Ralentir pour créer les conditions permettant de façonner ensemble le monde dans lequel nous voulons vivre
+subtitle: 3 jours d’atelier participatifs pour découvrir les pratiques d'intelligence collective développées
+  depuis plus de 20 ans par le réseau international Art of Hosting
 
 rows:
   - columns:
     - description: |-
-        Nous partageons une intuition, nourrie des constats que nous faisons chaque jour dans nos activités respectives de facilitateurs, consultants, coachs et accompagnants d’équipes et d’organisations : nous sommes à un moment de tournant et on ne pourra bientôt plus faire « comme avant ». 
-
-        Face d’une part à la résistance d’un ancien monde qui sent qu’il va s’éteindre, et face d’autre part au besoin pressant de construire le monde qui vient, les actions se multiplient dans un sens comme dans l’autre, et viennent amplifier de toute part la complexité dans laquelle nous évoluons. 
-
-        Pour écrire un récit commun, que ce soit dans les entreprises et organisations ou dans la société, nous partageons une conviction : __la vraie urgence est celle de ralentir.__ 
+        Ces pratiques reposent sur l'Art de concevoir, faciliter et récolter
+        les conversations importantes.  Elles visent à remettre celles-ci au
+        centre des organisations humaines pour leur redonner leur place majeure
+        dans l'accompagnement du changement. 
     - image:
         src: /img/illustration/seminaire_invitation.jpg
         alt: Illustration AoH
@@ -19,14 +19,17 @@ rows:
 
   - columns:
     - description: |-
-        __Et si nous osions...__
+        Pendant ces 3 jours, nous vous inviterons à explorer et pratiquer :
 
-        * expérimenter des pratiques collaboratives invitant à ralentir pour mieux agir ?
-        * explorer ce que cela apporterait à nos équipes, organisations, territoires ?
-        * prendre le temps de mettre le savoir-être avant le savoir-faire ?
-        * transformer nos entreprises en organisations au service de l’humain ?
-        * accueillir toute la richesse des jeunes générations et leur faire confiance en soutenant leurs actions ?
+        - __des méthodes permettant de concevoir et animer des conversations__,
+          réunions et évènements d'une manière engageante et participative
+        - __des pratiques permettant l’expression du potentiel d’un groupe__ pour co-créer des résultats concrets au delà de la complexité et des divergences d'opinion
+        - __des modèles et visions du monde permettant d'appréhender la complexité__
+          et le changement systémique dans les organisations.
 
-         Venez vivre 3 jours d’atelier pour explorer ces questions, tout en découvrant les pratiques d'intelligence collective développées depuis 20 ans par le réseau international Art of Hosting.
+        Managers, consultants, facilitateurs, activistes du changement ou simples
+        citoyens, vous y expérimenterez un ensemble d'approches participatives
+        pour mieux faire appel à l’intelligence collective, et enclencher des
+        transformations des modes de collaboration dans vos écosystèmes.
 
          <a href="https://docs.google.com/forms/d/e/1FAIpQLSecTZiO3Cb-LgfxFoD4OHmaaxyoGkdW5zBODagiop15OjwFhw/viewform" target="_blank" class="btn btn-lg btn-default" style="white-space: normal;">Je veux être informé(e) du prochain séminaire &rarr;</a>
