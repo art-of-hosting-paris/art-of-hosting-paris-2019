@@ -4,12 +4,14 @@
 
     bundle install
 
+
 ## Development
 
 ### Running development server
 
     bundle exec jekyll serve 
-    
+
+
 ### Building pages
 
     bundle exec jekyll build
