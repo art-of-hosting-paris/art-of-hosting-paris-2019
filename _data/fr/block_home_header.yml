@@ -3,10 +3,10 @@ theme: default
 layout: header_large
 title: Art of Hosting
 subtitle: L'art du leadership participatif
-description: 25-27 septembre, à Paris<br/>(Complet !)
+description: 8-10 Juillet, à Monterreau (région parisienne)
 action: 
-  text: Je veux être informé(e) du prochain séminaire
-  href: https://docs.google.com/forms/d/e/1FAIpQLSecTZiO3Cb-LgfxFoD4OHmaaxyoGkdW5zBODagiop15OjwFhw/viewform
+  text: Je veux être informé(e) de l'ouverture des inscriptions ! 
+  href: https://docs.google.com/forms/d/e/1FAIpQLScYXEgLs189CXELqdf3HetOVO1U9iRxVQfz1mwivCmrGKYMog/viewform?usp=sf_link
   blank: true
 
 items: []
