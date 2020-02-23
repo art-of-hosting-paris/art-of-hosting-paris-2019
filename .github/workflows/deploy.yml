@@ -32,7 +32,7 @@ jobs:
       - name: Build
         run: |
           JEKYLL_ENV=production bundle exec jekyll build
-      - name: commit
+      - name: Commit an dpush online
         run: |
           cd _site
           git add --all
