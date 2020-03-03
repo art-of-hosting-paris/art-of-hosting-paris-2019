@@ -7,15 +7,17 @@ subtitle: |-
 
 rows:
   - columns:
-    - width: auto
-      description: |-
+    - description: |-
         Entreprises, écoles, associations, collectivités… Nous passons notre vie d’une organisation à une autre, d’une structure à une autre. Ces entités, espaces où nous oeuvrons ensemble, sont aujourd’hui souvent montrées du doigt, source de souffrances des individus, source d’exploitation de nos ressources.
         Elles semblent également notre plus grand espoir. Comment en effet penser un avenir désirable sans une transformation et des actions conséquentes de ces organisations?
- 
         
         Il nous semble que l’amour, en tant que force de vie, de reliance, de service, de prendre soin, est à réhabiliter.
-  
-  - width: 6
+        
+    - width: 6
+      image:
+        src: /img/illustration/home_seminaire.jpg
+        alt: Illustration AoH
+        
   - columns:
     - description: |-
         - Que se passerait-il si nous concevions nos organisations pour qu’avant tout elles soient aimantes des individus qui les composent et de la planète dans laquelle elles opèrent ?
@@ -30,7 +32,3 @@ rows:
         transformations des modes de collaboration dans vos écosystèmes.
 
         [Pour en savoir plus sur le séminaire &rarr;](/le-programme)
-    - image:
-        src: /img/illustration/home_seminaire.jpg
-        alt: Illustration AoH
-      width: 6
