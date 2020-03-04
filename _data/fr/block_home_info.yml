@@ -23,15 +23,22 @@ rows:
         ### Combien ça coûte ?
 
         __Option #1 : financement individuel en modèle "d'économie partagée"__ <br/>
-        Frais d'inscriptions : n/a<br/>
+        Frais d'inscriptions : À définir, plus d'info lors de l'ouverture des inscriptions <br/>
         Frais pédagogiques :  participation en conscience à l'issue du séminaire en prenant en considération son coût global, sa valeur pour vous et vos ressources financières<br/>
         
         __Option #2 : financement par l'employeur hors OPCA__ <br/>
-        Entreprises : n/a<br/>
-        ONG / Associations : n/a<br/>
+        Entreprises : À définir, plus d'info lors de l'ouverture des inscriptions <br/>
+        ONG / Associations : À définir, plus d'info lors de l'ouverture des inscriptions <br/>
   
         __Option #3 : financement OPCA (formation professionelle)__<br/>
-        Tarif unique : n/a<br/>
+        Tarif unique : À définir, plus d'info lors de l'ouverture des inscriptions <br/>
         *Contacter maiwennfb@paidia.net pour transmission des documents nécessaires.*
     
-        [En savoir plus sur notre modèle économique &rarr;](/le-programme#program-notre-budget)
+        - columns:
+    - width: auto
+      description: |-
+        ### Notre approche  
+        
+        Nous proposons ce modèle économique hybride, parce que nous voulons :
+        * Ouvrir ce séminaire au plus grand nombre possible sans que le prix soit un facteur discriminant 
+        * Expérimenter ensemble l’économie du partage et nous questionner collectivement sur notre rapport à l’argent 
