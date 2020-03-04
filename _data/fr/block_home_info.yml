@@ -32,9 +32,8 @@ rows:
   
         __Option #3 : financement OPCA (formation professionelle)__<br/>
         Tarif unique : À définir, plus d'info lors de l'ouverture des inscriptions <br/>
-        *Contacter maiwennfb@paidia.net pour transmission des documents nécessaires.*
     
-        - columns:
+   - columns: 
     - width: auto
       description: |-
         ### Notre approche  
